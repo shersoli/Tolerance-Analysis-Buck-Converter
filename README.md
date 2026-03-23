@@ -3,7 +3,9 @@
 Copyright 2026 shersoli
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![Python](https://github.com/shersoli/Tolerance-Analysis-Buck-Converter/actions/workflows/python-app.yml/badge.svg)
+![Build Status](https://github.com/shersoli/Tolerance-Analysis-Buck-Converter/actions/workflows/python-app.yml/badge.svg)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
 This project is released under a MIT LICENSE
 
