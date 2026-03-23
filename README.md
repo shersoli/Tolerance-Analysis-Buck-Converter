@@ -21,4 +21,4 @@ The core logic is contained within `Worst_Case_Buck_Converter.py` and consists o
 * **`calculate_yield`**: The decision-making function. It compares the simulation results against a target voltage and an allowed error margin to calculate the final manufacturing success rate.
 
 ## AI Disclosure
-I used **Gemini (AI)** as a collaborative partner to brainstorm the project scope and to assist in structuring the `pytest` suite, the markdown formatting of the README and the GitHub Actions CI/CD workflow. The logic of `pytest`  was manually verified for accuracy. The functions were taken from a real life project and adapted to fit the scope of this assignment.
+I used **Gemini (AI)** as a collaborative partner to brainstorm the project scope and to assist in structuring the `pytest` suite, the markdown formatting of the README and the GitHub Actions. The logic of `pytest`  was manually verified for accuracy. The functions were taken from a real life project and adapted to fit the scope of this assignment.
